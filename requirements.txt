@@ -1,1 +1,26 @@
-TEST
+CORE/ENVIRONMENT
+- Bash
+- Linux-like environment
+
+REQUIRED TOOLS
+- nmap
+- masscan
+- netcat (nc / netcat-openbsd)
+- zip
+- sudo
+
+STANDARD UTILITIES
+- awk
+- bash
+- cat
+- cd
+- date
+- echo
+- grep
+- mkdir
+- printf
+- rm
+- sed
+- timeout
+- tr
+- xargs
