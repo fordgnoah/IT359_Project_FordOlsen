@@ -1,0 +1,10 @@
+# Ignore scan result directories
+scan_reports/
+scan_reports/*
+
+# Ignore zip files created by the script
+*.zip
+
+# Ignore logs, including per-scan alerts
+alerts.log
+*.log
